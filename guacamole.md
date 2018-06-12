@@ -1,7 +1,7 @@
 # Ingredients
--avacados
--lime 
--salt
+- avacados
+- lime 
+- salt
 
 # Instructions
 1. peel the avacados
